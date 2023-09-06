@@ -19,8 +19,8 @@ Follow these steps to install and run FRA on your local machine:
 Use Git to clone this repository to your local machine.
 
 ```shell
-git clone https://github.com/your_username/FRA.git
-cd FRA
+git clone https://github.com/soli0003/Face-Recognition-Application.git
+cd Face-Recognition-Application
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
