@@ -34,8 +34,8 @@ pip install virtualenv
 Create a virtual environment and activate it:
 
 ```shell
-virtualenv venv
-source venv/bin/activate      # On Windows, use: venv\Scripts\activate
+py -m virtualenv env
+.\env\Scripts\activate
 ```
 
 ### 3. Install Dependencies
