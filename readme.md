@@ -1,4 +1,4 @@
-# FRA - Face Recognition Application
+# Face Recognition Application
 
 FRA is a face recognition application built using the Kivy framework. It allows users to perform user registration, login using facial recognition, and check the status of their device's camera.
 
